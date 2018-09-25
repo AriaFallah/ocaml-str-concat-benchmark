@@ -1,6 +1,6 @@
 # OCaml String Concatenation Benchmark
 
-Determining which way of concatenating strings is fastests.
+Determining which way of concatenating strings is fastest.
 
 ## Methods
 
